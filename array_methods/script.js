@@ -6,7 +6,13 @@
 // console.log(cars);
 
 cars=['lexus','ford','audi','bmw','toyota','mercedes'];
-cars.push('test');
-cars.unshift('b');
-cars.splice(3,0,'ferrari');
+// cars.push('test');
+// cars.unshift('b');
+// cars.splice(3,0,'ferrari');
+cars.sort();
+cars.reverse();
 console.log(cars);
+
+
+///sort,reverse(array methods),inheritance,methods,functions,arrays,objects
+///git collaboration, how to interact with repos,rebasing
