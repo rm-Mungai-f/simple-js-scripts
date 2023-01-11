@@ -12,7 +12,3 @@ cars=['lexus','ford','audi','bmw','toyota','mercedes'];
 cars.sort();
 cars.reverse();
 console.log(cars);
-
-
-///sort,reverse(array methods),inheritance,methods,functions,arrays,objects
-///git collaboration, how to interact with repos,rebasing
